@@ -1,4 +1,5 @@
 <?php
 echo "Hola Mundo\n";
-echo"Mi Nombre es WAshington Quimi";
-php?>
+echo"Mi Nombre es WAshington Quimi\n";
+echo"Carrera de Ingenieria en Software\n";
+?>
